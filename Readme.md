@@ -112,5 +112,5 @@ Host Environment: Windows (Git Bash + CMD)
 
 📂 Author
 
-👤 Sibansu Dey
+👤 Muntaha Hazil
 🎓 CSE Student | Backend Developer | Project: Digital Wellbeing Companion - DigiDetox
